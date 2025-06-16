@@ -1,2 +1,2 @@
 # CPP05
-Exercice for the CCP05 project
+Exercice for the CPP05 project
